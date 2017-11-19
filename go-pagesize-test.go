@@ -2,6 +2,8 @@
 // test for the bug fixed by this commit:
 // https://github.com/golang/go/commit/1b9499b06989d2831e5b156161d6c07642926ee1
 //
+// CHERISH YOUR BUGS. STUDY THEM. (John Gall)
+//
 package main
 
 import (
